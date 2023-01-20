@@ -7,7 +7,6 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
 @EnableEurekaClient
-@RefreshScope
 public class GsdemoApplication {
 
 	public static void main(String[] args) {
